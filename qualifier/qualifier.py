@@ -1,6 +1,10 @@
+"""Code jam Qualifier."""
+
+from pathlib import Path
+
+
 import numpy as np
 from PIL import Image
-from pathlib import Path
 
 
 def valid_input(
